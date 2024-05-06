@@ -1,9 +1,9 @@
 # Test 
 
-![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-test 
+This is a test run.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -14,20 +14,20 @@ test
 6. [Questions](#questions)
 
 ## Installation
-
+vs code
 
 ## Usage
-
+n/a
 
 ## License
-Apache
+MIT
 
 ## Contributions
-
+none
 
 ## Tests
-
+n/a
 
 ## Questions
-My GitHub profile is 
-For more information, reach me at  
+My GitHub profile is saydeezr
+For more information, reach me at myemail@gmail.com 
